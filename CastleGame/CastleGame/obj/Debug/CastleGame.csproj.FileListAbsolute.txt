@@ -1,0 +1,11 @@
+C:\Users\Джамал\source\repos\CastleGame\CastleGame\bin\Debug\CastleGame.exe.config
+C:\Users\Джамал\source\repos\CastleGame\CastleGame\bin\Debug\CastleGame.exe
+C:\Users\Джамал\source\repos\CastleGame\CastleGame\bin\Debug\CastleGame.pdb
+C:\Users\Джамал\source\repos\CastleGame\CastleGame\obj\Debug\CastleGame.csproj.AssemblyReference.cache
+C:\Users\Джамал\source\repos\CastleGame\CastleGame\obj\Debug\CastleGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Джамал\source\repos\CastleGame\CastleGame\obj\Debug\CastleGame.Form1.resources
+C:\Users\Джамал\source\repos\CastleGame\CastleGame\obj\Debug\CastleGame.Properties.Resources.resources
+C:\Users\Джамал\source\repos\CastleGame\CastleGame\obj\Debug\CastleGame.csproj.GenerateResource.cache
+C:\Users\Джамал\source\repos\CastleGame\CastleGame\obj\Debug\CastleGame.csproj.CoreCompileInputs.cache
+C:\Users\Джамал\source\repos\CastleGame\CastleGame\obj\Debug\CastleGame.exe
+C:\Users\Джамал\source\repos\CastleGame\CastleGame\obj\Debug\CastleGame.pdb
